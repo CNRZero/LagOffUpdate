@@ -1,0 +1,16 @@
+{
+  "latestVersion": "1.0.0",
+  "minimumSupportedVersion": "1.0.0-rc.1",
+  "releaseDateUtc": "2026-07-07T18:00:00Z",
+  "forceAfterUtc": "2026-07-14T18:00:00Z",
+  "downloadUrl": "https://github.com/gaminggodpetsandgoodgames/LagOff-Updates/releases/download/v1.0.0/LagOff-1.0.0-win-x64.zip",
+  "sha256": "REPLACE_WITH_REAL_SHA256_HASH",
+  "fileSizeBytes": 180000000,
+  "title": "LagOff 1.0 Stable",
+  "message": "The first stable version of LagOff is now available.",
+  "releaseNotes": [
+    "Added automatic updates",
+    "Improved game detection",
+    "Fixed startup crashes"
+  ]
+}
