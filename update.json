@@ -1,19 +1,19 @@
 {
-  "latestVersion": "1.0.0-rc.2",
-  "minimumSupportedVersion": "1.0.0-rc.1",
-  "releaseDateUtc": "2026-07-10T01:24:00Z",
-  "forceAfterUtc": "2026-07-17T01:24:00Z",
-  "downloadUrl": "https://github.com/CNRZero/LagOffUpdate/releases/download/v1.0.0-rc.2/LagOff-1.0.0-rc.2-win-x64.zip",
-  "sha256": "5EC9E0903B0D87169A28AEF6E23EBCC8FD9A50577B21FF60B0D741238FCDE363",
-  "fileSizeBytes": 118654798,
-  "title": "LagOff RC2",
-  "message": "RC2 adds automatic updates, settings migration, and bug fixes. RC1 users: install this ZIP once manually — future updates happen inside LagOff.",
+  "latestVersion": "1.0.0-rc.3",
+  "minimumSupportedVersion": "1.0.0-rc.2",
+  "releaseDateUtc": "2026-07-10T18:35:00Z",
+  "forceAfterUtc": "2026-07-17T18:35:00Z",
+  "downloadUrl": "https://github.com/CNRZero/LagOffUpdate/releases/download/v1.0.0-rc.3/LagOff-1.0.0-rc.3-win-x64.zip",
+  "sha256": "2C651B95A599E2D92B2593B1298465DFA92790B8558D3B670EDD934B752BEF38",
+  "fileSizeBytes": 118661617,
+  "title": "LagOff RC3",
+  "message": "RC3 fixes settings migration, data paths, and RC2-to-RC3 auto-updates. RC2 users can update from inside LagOff.",
   "releaseNotes": [
-    "Automatic signed update system",
-    "LagOff.Updater for safe in-place upgrades",
-    "Settings migrated to %LocalAppData%\\LagOff",
-    "Update channel (Stable/Beta) in Settings",
-    "Crash reporting and bug fixes",
-    "Popup/settings UI stability fixes"
+    "Fixed settings migration to LocalAppData",
+    "Fixed auto-update when exe name changes (RC2 to RC3)",
+    "Auth, plugins, backgrounds, and crash data use LocalAppData",
+    "Community profiles save to the correct folder",
+    "Login window stability fixes",
+    "Updater records correct previous/new version after install"
   ]
 }
