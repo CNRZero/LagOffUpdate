@@ -3,7 +3,7 @@
   "minimumSupportedVersion": "1.0.0-rc.3",
   "releaseDateUtc": "2026-07-10T23:45:00Z",
   "forceAfterUtc": "2026-07-17T23:45:00Z",
-  "downloadUrl": "https://github.com/CNRZero/LagOffUpdate/releases/download/v1.0.0-rc.4/LagOff-1.0.0-rc.4-win-x64.zip",
+  "downloadUrl": "https://github.com/CNRZero/LagOffUpdate/releases/download/1.0.0-rc4/LagOff-1.0.0-rc.4-win-x64.zip",
   "sha256": "68D147CB111F65D9E85E477B3A596DB0DC7D4E6FA1353550DE1F527ED481BF33",
   "fileSizeBytes": 118666878,
   "title": "LagOff RC4 (Beta)",
